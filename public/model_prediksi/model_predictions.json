@@ -1,0 +1,4862 @@
+[
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 24.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 24.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 36.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 27.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 25.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 23.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 2,
+      "temperature": 31.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 24.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 26.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 23.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 19.4
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 22.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 24.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 25.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 25.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 26.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 24.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 33.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 31.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 26.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 28.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 25.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 12.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 27.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 28.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 18.9
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 29.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 25.6
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 28.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 25.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 33.3
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 28.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 32.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 32.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 21.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 23.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 29.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 25.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 10,
+      "weather": 1,
+      "temperature": 25.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 33.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 25.4
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 10,
+      "weather": 1,
+      "temperature": 22.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 22.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 37.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 26.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 20.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 18.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 23.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 26.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 31.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 31.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 27.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 24.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 28.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 18.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 36.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 30.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 31.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 21.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 33.4
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 24.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 22.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 26.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 26.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 21.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 22.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 22.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 22.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 25.1
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 20.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 23.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 32.2
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 31.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 21.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 31.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 17.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 39.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 1,
+      "temperature": 33.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 24.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 28.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 20.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 27.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 26.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 22.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 24.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 24.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 21.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 22.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 19.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 31.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 22.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 20.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 31.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 28.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 31.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 31.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 2,
+      "temperature": 36.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 26.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 19.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 28.4
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 23.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 22.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 27.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 31.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 22.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 10,
+      "weather": 3,
+      "temperature": 33.4
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 22.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 25.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 28.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 25.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 18.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 31.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 23.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 30.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 20.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 21.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 0,
+      "weather": 3,
+      "temperature": 31.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 28.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 24.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 28.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 27.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 3,
+      "temperature": 27.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 25.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 22.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 27.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 26.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 24.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 21.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 27.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 24.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 21.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 27.2
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 35.0
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 25.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 34.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 37.6
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 22.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 27.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 37.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 26.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 27.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 18.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 24.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 29.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 39.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 26.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 18.7
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 20.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 26.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 32.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 30.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 29.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 33.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 23.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 27.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 24.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 25.6
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 1,
+      "temperature": 22.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 10,
+      "weather": 2,
+      "temperature": 25.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 26.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 25.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 26.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 29.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 33.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 33.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 30.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 20.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 25.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 25.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 23.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 28.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 19.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 35.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 33.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 29.4
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 0,
+      "weather": 1,
+      "temperature": 26.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 2,
+      "temperature": 33.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 30.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 32.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 35.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 32.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 29.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 33.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 24.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 21.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 28.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 26.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 26.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 33.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 27.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 28.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 25.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 31.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 30.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 31.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 24.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 33.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 36.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 31.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 23.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 23.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 25.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 24.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 26.6
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 0,
+      "temperature": 30.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 28.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 28.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 25.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 26.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 10,
+      "weather": 2,
+      "temperature": 31.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 16.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 26.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 28.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 30.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 21.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 10,
+      "weather": 2,
+      "temperature": 21.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 29.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 17.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 33.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 28.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 34.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 21.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 24.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 15.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 23.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 26.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 17.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 25.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 17.1
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 25.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 32.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 26.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 0,
+      "weather": 0,
+      "temperature": 35.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 30.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 33.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 23.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 23.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 28.7
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 19.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 29.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 25.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 1,
+      "temperature": 33.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 30.4
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 32.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 9,
+      "weather": 0,
+      "temperature": 23.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 32.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 34.2
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 26.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 23.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 23.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 33.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 40.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 22.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 21.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 31.6
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 23.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 32.1
+    },
+    "risk_level": 1,
+    "action": 6
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 29.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 26.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 29.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 12,
+      "weather": 2,
+      "temperature": 28.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 26.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 10,
+      "weather": 2,
+      "temperature": 18.2
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 27.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 34.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 19.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 1,
+      "temperature": 22.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 29.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 27.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 29.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 23.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 32.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 2,
+      "temperature": 27.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 30.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 28.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 27.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 2,
+      "temperature": 30.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 27.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 21.0
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 32.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 31.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 16.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 23.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 9,
+      "weather": 0,
+      "temperature": 32.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 17.9
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 31.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 26.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 11,
+      "weather": 0,
+      "temperature": 33.7
+    },
+    "risk_level": 2,
+    "action": 4
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 27.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 23.4
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 28.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 0,
+      "temperature": 26.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 22.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 38.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 22.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 15.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 34.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 24.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 25.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 25.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 24.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 23.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 22.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 27.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 25.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 30.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 29.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 22.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 27.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 24.9
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 22.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 30.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 0,
+      "temperature": 26.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 25.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 22.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 21.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 36.9
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 11,
+      "weather": 0,
+      "temperature": 28.7
+    },
+    "risk_level": 2,
+    "action": 4
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 21.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 28.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 32.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 27.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 33.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 19.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 17.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 28.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 28.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 10.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 2,
+      "temperature": 23.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 22.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 20.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 0,
+      "weather": 2,
+      "temperature": 21.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 30.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 21.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 22.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 18.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 33.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 29.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 14.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 22.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 29.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 33.4
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 0,
+      "temperature": 31.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 9,
+      "weather": 1,
+      "temperature": 25.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 17.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 2,
+      "temperature": 31.4
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 25.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 27.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 1,
+      "weather": 1,
+      "temperature": 20.2
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 28.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 28.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 24.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 10,
+      "weather": 1,
+      "temperature": 29.4
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 20.1
+    },
+    "risk_level": 2,
+    "action": 3
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 25.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 27.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 0,
+      "temperature": 18.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 8,
+      "weather": 1,
+      "temperature": 26.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 4,
+      "weather": 1,
+      "temperature": 30.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 25.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 26.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 9,
+      "weather": 3,
+      "temperature": 29.8
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 25.1
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 25.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 2,
+      "weather": 2,
+      "temperature": 21.1
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 26.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 25.3
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 2,
+      "temperature": 29.5
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 11,
+      "weather": 2,
+      "temperature": 29.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 31.0
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 24.5
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 7,
+      "weather": 0,
+      "temperature": 16.1
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 30.7
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 2,
+      "temperature": 29.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 23.8
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 29.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 9,
+      "weather": 2,
+      "temperature": 19.8
+    },
+    "risk_level": 2,
+    "action": 5
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 32.2
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 25.3
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 22.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 3,
+      "temperature": 23.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 2,
+      "weather": 3,
+      "temperature": 25.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 8,
+      "weather": 3,
+      "temperature": 26.9
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 27.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 24.9
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 0,
+      "temperature": 28.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 27.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 2,
+      "temperature": 23.8
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 23.0
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 11,
+      "weather": 0,
+      "temperature": 30.0
+    },
+    "risk_level": 2,
+    "action": 4
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 29.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 27.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 3,
+      "temperature": 31.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 5,
+      "weather": 0,
+      "temperature": 17.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 1,
+      "temperature": 24.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 1,
+      "temperature": 21.2
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 4,
+      "weather": 3,
+      "temperature": 38.3
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 1,
+      "past_incident_frequency": 5,
+      "weather": 1,
+      "temperature": 30.6
+    },
+    "risk_level": 2,
+    "action": 2
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 0,
+      "temperature": 26.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 3,
+      "temperature": 30.9
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 0,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 3,
+      "weather": 2,
+      "temperature": 32.6
+    },
+    "risk_level": 0,
+    "action": 0
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 2,
+      "temperature": 32.5
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 7,
+      "weather": 1,
+      "temperature": 31.6
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 0,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 1,
+      "weather": 3,
+      "temperature": 25.7
+    },
+    "risk_level": 1,
+    "action": 1
+  },
+  {
+    "features": {
+      "golden_rule_violation": 1,
+      "unsafe_act_condition": 1,
+      "safe_behaviour": 0,
+      "past_incident_frequency": 6,
+      "weather": 3,
+      "temperature": 24.5
+    },
+    "risk_level": 2,
+    "action": 2
+  }
+]
