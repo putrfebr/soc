@@ -13,6 +13,7 @@ use App\Http\Controllers\HomeController;
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
+use Illuminate\Support\Facades\Auth;
 
 
 use Illuminate\Support\Facades\Artisan;
